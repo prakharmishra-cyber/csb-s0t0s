@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/css/main.4982f408.chunk.css",
+    "main.js": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/js/main.b640e40c.chunk.js",
+    "main.js.map": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/js/main.b640e40c.chunk.js.map",
+    "runtime-main.js": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/js/runtime-main.e86b05b9.js",
+    "runtime-main.js.map": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/js/runtime-main.e86b05b9.js.map",
+    "static/js/2.e5f6ddb4.chunk.js": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/js/2.e5f6ddb4.chunk.js",
+    "static/js/2.e5f6ddb4.chunk.js.map": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/js/2.e5f6ddb4.chunk.js.map",
+    "index.html": "https://prakharmishra-cyber.github.io/csb-s0t0s/index.html",
+    "static/css/main.4982f408.chunk.css.map": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/css/main.4982f408.chunk.css.map",
+    "static/js/2.e5f6ddb4.chunk.js.LICENSE.txt": "https://prakharmishra-cyber.github.io/csb-s0t0s/static/js/2.e5f6ddb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e86b05b9.js",
+    "static/js/2.e5f6ddb4.chunk.js",
+    "static/css/main.4982f408.chunk.css",
+    "static/js/main.b640e40c.chunk.js"
+  ]
+}
